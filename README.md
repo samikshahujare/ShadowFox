@@ -50,6 +50,7 @@ Sentiment-Analysis/
 ├── tfidf_vectorizer.pkl              # Saved TF-IDF vectorizer
 ├── sentiment_distribution.png        # Sentiment distribution chart
 ├── confusion_matrix.png              # Confusion Matrix
+├── final_sentiment_analysis_results.csv  # Save final sentiment result csv file
 └── README.md
 ```
 
