@@ -48,10 +48,8 @@ Sentiment-Analysis/
 ├── sentiment_dataset.csv             # Original dataset
 ├── sentiment_model.pkl               # Trained Logistic Regression model
 ├── tfidf_vectorizer.pkl              # Saved TF-IDF vectorizer
-├── positive_wordcloud.png            # WordCloud visualization
 ├── sentiment_distribution.png        # Sentiment distribution chart
 ├── confusion_matrix.png              # Confusion Matrix
-├── requirements.txt                  # Required libraries
 └── README.md
 ```
 
